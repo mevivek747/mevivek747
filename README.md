@@ -22,7 +22,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ### About Me 🚀
 - I’m a student pursuing my Bachelors in Computer Science & Engineering. </br>
-- I am passionate about Web dev, Machine Learning,Cyber security & I enjoy learning new things. </br> 
+- I am passionate about Web dev, Machine Learning, Cyber security & I enjoy learning new things. </br> 
 - I’m currently learning python and web development.
 - I’m looking to collaborate on Project related to python and basic web dev projects.
 - all the link to connect with me:[ vivek!](https://bio.link/vivekthakur)
