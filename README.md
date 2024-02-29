@@ -2,7 +2,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [VIVEK!](https://github.com/mevivek747) 
 
-
+    
 <a href="www.linkedin.com/in/vivekthakur747">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  />
 </a>
